@@ -1,2 +1,2 @@
 # Board-Game-Portfolio
-This repository is dedicated to my Board Game creation
+This repository is dedicated to my Board Game creation.
